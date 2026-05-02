@@ -25,4 +25,8 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 [![](https://komarev.com/ghpvc/?username=Souradeep858&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.shion.dev/api?username=Souradeep858&theme=gruvbox_light&include_all_commits=true&count_private=true&v=2)
 
+![](https://streak-stats.demolab.com/?user=Souradeep858&theme=gruvbox_light&v=2)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Souradeep858&layout=compact&v=2)
