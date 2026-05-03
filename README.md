@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expert in Frontend(React) development always eager to participate open source programs (Participated GSSoC'25,26 , ECWOC'26 , SSOC'26 , ELUSOC'26)<br>currently learning Backend development<br>Ask me about React , Python , Javascript , C
+I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expert in Frontend(React) development always eager to participate open source programs (Participated GSSoC'25,26 , ECWOC'26 , SSOC'26 , ELUSOC'26)<br>currently learning Backend development<br>Ask me about React , Python , Javascript ,C
 
 
 ## 🌐 Socials:
