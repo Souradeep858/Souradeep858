@@ -10,7 +10,7 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Souradeep858&theme=gruvbox_light&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com/?user=Souradeep858&theme=gruvbox_light&cache_seconds=1800)
+![](https://streak-stats.demolab.com/?user=Souradeep858&theme=gruvbox_light&cache_seconds=1800 )
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Souradeep858&layout=compact&cache_seconds=1800)
 ## 🏆 GitHub Trophies
