@@ -13,9 +13,32 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 ![](https://streak-stats.demolab.com/?user=Souradeep858&theme=gruvbox_light&cache_seconds=1800 )
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Souradeep858&layout=compact&cache_seconds=1800)
+
+# 🏅 Badges
+
+<p align="center">
+    <img width="100" height="100" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/9baa7c74-ebd5-4e25-bcb5-74b279d6695e" />
+    <img width="100" height="100" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/c9c5bc7a-4117-491f-9297-11f586a5f4a1" />
+  <img width="100" height="100" alt="contributor-GSSOC&#39;26" src="https://github.com/user-attachments/assets/76f87a71-c3da-4c13-bfdd-4ca830402538" />
+<img width="100" height="100" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/4a8d451f-fcf2-40b0-91e6-c0596ecf6268" />
+  <img width="100" height="100" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/4f0e011c-0dcd-49c0-ad79-0d95950d899a" />
+  <img width="100" height="100" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/a223b663-c83e-4a6f-ae3a-44b4b9b2dd27" />
+  <img width="100" height="100" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/1337857e-7a2d-4322-9590-ae60365dc797" />
+<img width="100" height="100" alt="gssoc-badge-profile_complete" src="https://github.com/user-attachments/assets/21789f16-510d-4d9f-8fba-dd5a992c7116" />
+<img width="100" height="100" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/d64d3966-144f-4854-8ba1-c87e48d6621d" />
+<img width="100" height="100" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/f45ddba7-50e9-4f19-ae73-bc9b2c9c29e5" />
+<img width="100" height="100" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/82db64a4-0bf1-4a27-9253-fa0dd916998a" />
+<img width="100" height="100" alt="open-GSSOC&#39;26" src="https://github.com/user-attachments/assets/51bc4f7f-1658-4fd9-ac44-311904b4e1e6" />
+<img width="100" height="100" alt="ECWoC-2026-ID-Souradeep-Chakraborty" src="https://github.com/user-attachments/assets/6844e462-1c92-4127-a269-46dfc4fc8a64" />
+<img width="100" height="100" alt="ssoc-s5-contributor-https___github com_Souradeep858" src="https://github.com/user-attachments/assets/ebf81672-f36d-431f-b34b-6f3569aa560e" />
+<!-- <img width="100" height="100" alt="Contributor&#39;s badge(Gssoc)" src="https://github.com/user-attachments/assets/3b0975cc-41c3-4e27-b769-c6c92ae98d11" /> -->
+<img width="100" height="100" alt="WoC 5 0 - Contributor Badge Black" src="https://github.com/user-attachments/assets/fce31ae4-1046-404e-ba1d-29342ee75005" />
+<img width="100" height="100" alt="Contributor&#39;s badge(Gssoc)" src="https://github.com/user-attachments/assets/1c4e5707-7292-4565-a331-636dc96105c2" />  
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Souradeep858&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -23,6 +46,4 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 ![](https://github-contributor-stats.vercel.app/api?username=Souradeep858&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Souradeep858&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=Souradeep858&label=Visitors&color=brightgreen&style=for-the-badge)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
