@@ -18,6 +18,7 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 
 <p align="center">
     <img width="100" height="100" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/9baa7c74-ebd5-4e25-bcb5-74b279d6695e" />
+    <img width="100" height="100" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/d6be290d-dc56-468d-b60c-5dec5b05be94" />
     <img width="100" height="100" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/c9c5bc7a-4117-491f-9297-11f586a5f4a1" />
   <img width="100" height="100" alt="contributor-GSSOC&#39;26" src="https://github.com/user-attachments/assets/76f87a71-c3da-4c13-bfdd-4ca830402538" />
 <img width="100" height="100" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/4a8d451f-fcf2-40b0-91e6-c0596ecf6268" />
