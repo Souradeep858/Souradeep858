@@ -17,24 +17,21 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 # 🏅 Badges
 
 <p align="center">
-    <img width="100" height="100" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/9baa7c74-ebd5-4e25-bcb5-74b279d6695e" />
-    <img width="100" height="100" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/d6be290d-dc56-468d-b60c-5dec5b05be94" />
-    <img width="100" height="100" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/c9c5bc7a-4117-491f-9297-11f586a5f4a1" />
-  <img width="100" height="100" alt="contributor-GSSOC&#39;26" src="https://github.com/user-attachments/assets/76f87a71-c3da-4c13-bfdd-4ca830402538" />
-<img width="100" height="100" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/4a8d451f-fcf2-40b0-91e6-c0596ecf6268" />
-  <img width="100" height="100" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/4f0e011c-0dcd-49c0-ad79-0d95950d899a" />
-  <img width="100" height="100" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/a223b663-c83e-4a6f-ae3a-44b4b9b2dd27" />
-  <img width="100" height="100" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/1337857e-7a2d-4322-9590-ae60365dc797" />
-<img width="100" height="100" alt="gssoc-badge-profile_complete" src="https://github.com/user-attachments/assets/21789f16-510d-4d9f-8fba-dd5a992c7116" />
-<img width="100" height="100" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/d64d3966-144f-4854-8ba1-c87e48d6621d" />
-<img width="100" height="100" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/f45ddba7-50e9-4f19-ae73-bc9b2c9c29e5" />
-<img width="100" height="100" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/82db64a4-0bf1-4a27-9253-fa0dd916998a" />
-<img width="100" height="100" alt="open-GSSOC&#39;26" src="https://github.com/user-attachments/assets/51bc4f7f-1658-4fd9-ac44-311904b4e1e6" />
-<img width="100" height="100" alt="ECWoC-2026-ID-Souradeep-Chakraborty" src="https://github.com/user-attachments/assets/6844e462-1c92-4127-a269-46dfc4fc8a64" />
-<img width="100" height="100" alt="ssoc-s5-contributor-https___github com_Souradeep858" src="https://github.com/user-attachments/assets/ebf81672-f36d-431f-b34b-6f3569aa560e" />
-<!-- <img width="100" height="100" alt="Contributor&#39;s badge(Gssoc)" src="https://github.com/user-attachments/assets/3b0975cc-41c3-4e27-b769-c6c92ae98d11" /> -->
-<img width="100" height="100" alt="WoC 5 0 - Contributor Badge Black" src="https://github.com/user-attachments/assets/fce31ae4-1046-404e-ba1d-29342ee75005" />
-<img width="100" height="100" alt="Contributor&#39;s badge(Gssoc)" src="https://github.com/user-attachments/assets/1c4e5707-7292-4565-a331-636dc96105c2" />  
+<img width="100" height="100" alt="gssoc-badge-week_one (1)" src="https://github.com/user-attachments/assets/62ed32ef-cf72-4e57-9064-55631e9e55a2" />
+<img width="100" height="100" alt="gssoc-badge-role_contributor (1)" src="https://github.com/user-attachments/assets/0803b4b8-18a7-4088-a88e-49d0d4354fbb" />
+<img width="100" height="100" alt="gssoc-badge-rising_star (1)" src="https://github.com/user-attachments/assets/7025d155-5e98-4800-a500-3048f18b0b2a" />
+<img width="100" height="100" alt="gssoc-badge-profile_complete (1)" src="https://github.com/user-attachments/assets/807c1210-64a5-4f51-a729-a991a4eb5c8f" />
+<img width="100" height="100" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/71c16388-f549-4d50-b0b4-e1039c544d03" />
+<img width="100" height="100" alt="gssoc-badge-point_scorer (1)" src="https://github.com/user-attachments/assets/2a8a5971-552d-4771-9a0c-e62bc383b2a9" />
+<img width="100" height="100" alt="gssoc-badge-getting_started (1)" src="https://github.com/user-attachments/assets/aba604e7-01a9-42c0-b1c2-5fb192841d02" />
+<img width="100" height="100" alt="gssoc-badge-first_steps (1)" src="https://github.com/user-attachments/assets/fe1037b0-1db6-42cb-814b-18a6596e70f1" />
+<img width="100" height="100" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/1515899a-bef3-4bf1-b766-4a17d3c307be" />
+<img width="100" height="100" alt="gssoc-badge-discord_verified (1)" src="https://github.com/user-attachments/assets/087c6ce8-05ba-4665-a877-71f52c5d10b8" />
+<img width="100" height="100" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/e93881b2-8f99-4108-9c68-e834a2d2beed" />
+<img width="100" height="100" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/c9abcc48-4051-4a82-aa32-8cdf4b3916ed" />
+<img width="100" height="100" alt="gssoc-badge-bounty_master (1)" src="https://github.com/user-attachments/assets/31d928c4-102d-4523-8dc4-c817a862e3ea" />
+<img width="100" height="100" alt="open-GSSOC&#39;26" src="https://github.com/user-attachments/assets/1f91c998-909d-4b5f-bf05-52682c2908e7" />
+
 </p>
 
 
