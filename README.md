@@ -21,6 +21,7 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 # 🏅 Badges
 
 <p align="center">
+<img width="100" height="100" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/91d50939-04b4-4a68-a6ed-93584239ccd8" />
 <img width="100" height="100" alt="gssoc-badge-week_one (1)" src="https://github.com/user-attachments/assets/62ed32ef-cf72-4e57-9064-55631e9e55a2" />
 <img width="100" height="100" alt="gssoc-badge-role_contributor (1)" src="https://github.com/user-attachments/assets/0803b4b8-18a7-4088-a88e-49d0d4354fbb" />
 <img width="100" height="100" alt="gssoc-badge-rising_star (1)" src="https://github.com/user-attachments/assets/7025d155-5e98-4800-a500-3048f18b0b2a" />
