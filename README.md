@@ -39,9 +39,6 @@ I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expe
 
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Souradeep858&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
