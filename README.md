@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am Souradeep Chakraborty a Full stack web developer and tech enthusiast , expert in Frontend(React) development always eager to participate open source programs (Participated GSSoC'25,26 , ECWOC'26 , ELUSOC'26)<br>currently learning Backend development<br>Ask me about React , Java , Javascript , SQL, MongoDB, C
 
+## Card:
+<img width="2560" height="1280" alt="kado-Souradeep858-github (2)" src="https://github.com/user-attachments/assets/3312cb5c-0798-4c06-b9e4-8f230b4f1c7f" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/souradeep-chakraborty-9a2080343/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csouradeep3@gmail.com) 
